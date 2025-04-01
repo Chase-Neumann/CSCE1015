@@ -4,3 +4,7 @@ Assignment repository for UNT CSCE1015
 
 ## ls -al
 $ls -al
+## EUID
+
+## Favorite Linux Command
+-al
