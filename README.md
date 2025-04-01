@@ -1,10 +1,6 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-## ckn0042
-
-## ls -al
-$ls -al
 ## EUID
-
+ckn0042
 ## Favorite Linux Command
 -al
